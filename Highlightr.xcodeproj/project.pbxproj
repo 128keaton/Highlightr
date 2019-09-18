@@ -193,6 +193,7 @@
 		8A50F15D2332575700A99764 /* atelier-savanna-light.css in Resources */ = {isa = PBXBuildFile; fileRef = 8A50F0A62332575600A99764 /* atelier-savanna-light.css */; };
 		8A50F15E2332575700A99764 /* idea.css in Resources */ = {isa = PBXBuildFile; fileRef = 8A50F0A72332575600A99764 /* idea.css */; };
 		8A50F15F2332575700A99764 /* idea.css in Resources */ = {isa = PBXBuildFile; fileRef = 8A50F0A72332575600A99764 /* idea.css */; };
+		8A50F160233258C100A99764 /* highlight.min.js in Resources */ = {isa = PBXBuildFile; fileRef = 8CD1ADDC1F3912F2000FDA02 /* highlight.min.js */; };
 		8C2FB1C71F39118F00469D0D /* Highlightr.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C2FB1C51F39118F00469D0D /* Highlightr.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8CD1ADD11F39126B000FDA02 /* CodeAttributedString.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD1ADCD1F39126B000FDA02 /* CodeAttributedString.swift */; };
 		8CD1ADD21F39126B000FDA02 /* Highlightr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CD1ADCE1F39126B000FDA02 /* Highlightr.swift */; };
@@ -594,6 +595,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8A50F160233258C100A99764 /* highlight.min.js in Resources */,
 				8A50F0E82332575700A99764 /* dracula.css in Resources */,
 				8A50F0F42332575700A99764 /* atelier-heath-dark.css in Resources */,
 				8A50F0D82332575700A99764 /* vs.css in Resources */,
@@ -693,6 +695,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CD1AE241F39172D000FDA02 /* highlight.min.js in Resources */,
 				8A50F0D92332575700A99764 /* vs.css in Resources */,
 				8A50F0FF2332575700A99764 /* shades-of-purple.css in Resources */,
 				8A50F1312332575700A99764 /* atelier-sulphurpool-dark.css in Resources */,
@@ -737,7 +740,6 @@
 				8A50F0DF2332575700A99764 /* paraiso-dark.css in Resources */,
 				8A50F1572332575700A99764 /* atom-one-light.css in Resources */,
 				8A50F1352332575700A99764 /* hybrid.css in Resources */,
-				8CD1AE241F39172D000FDA02 /* highlight.min.js in Resources */,
 				8A50F12B2332575700A99764 /* tomorrow-night-bright.css in Resources */,
 				8A50F0DB2332575700A99764 /* atelier-cave-light.css in Resources */,
 				8A50F1112332575700A99764 /* mono-blue.css in Resources */,
